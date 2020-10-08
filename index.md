@@ -17,8 +17,8 @@ measures of center and spread | سنجه های تمرکز و پخشی
 - any unusual observation
 
 ## سنجه های تمرکز و پخشی
-
-
+- تمرکز: میانگین، میانه و مد
+- پخشی: انحراف معیار، رنج، رنج میان چارکی
 
 # Lesson Learning Objectives
 Suggested reading: OpenIntro Statistics, 3rd edition, Chapter 1, Section 1.6
