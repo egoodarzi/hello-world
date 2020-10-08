@@ -5,6 +5,11 @@ word or expression          | description
 scatter plot       | scatter plot
 test | best
 
+# use scatter plot
+- direction (positive or negative)
+- form (linear or non-linear)
+- strength of the relationship
+
 
 
 # Lesson Learning Objectives
