@@ -19,6 +19,42 @@ measures of center and spread | سنجه های تمرکز و پخشی
 ## سنجه های تمرکز و پخشی
 - تمرکز: میانگین، میانه و مد
 - پخشی: انحراف معیار، رنج، رنج میان چارکی
+## shape of a distribution
+- symmetric / right skewed / left skewed
+- unimodal / bimodal / lultimodal / uniform
+
+## visualize the shape, center and spread
+- histograms 
+- box plots
+
+and use intensity maps for visualizing the spatial distribution of the data 
+
+## robust statistic not affected by outliers and skewness
+ - median, IQR
+## Recognize the transformations (e.g. log)  
+
+# Videos, Week2
+ - in scatter plots we use the explanatory variable on X axis and the response variable on the Y axis.
+ - labling variables as explanatiry and response does not garantee that the relationship between the two is actually causal, even if an association between two variables is identified. (think about randomization for causation!)
+-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Lesson Learning Objectives
 Suggested reading: OpenIntro Statistics, 3rd edition, Chapter 1, Section 1.6
