@@ -2,13 +2,21 @@
 
 word or expression          | description
 ------------                | -------------
-scatter plot       | scatter plot
-test | best
+measure       | سنجه
+measures of center and spread | سنجه های تمرکز و پخشی
 
-# use scatter plot
+## use scatter plot for two numerical variables
 - direction (positive or negative)
 - form (linear or non-linear)
 - strength of the relationship
+
+## describing a nunerical distribution
+- its shape
+- its center
+- its spread
+- any unusual observation
+
+## سنجه های تمرکز و پخشی
 
 
 
