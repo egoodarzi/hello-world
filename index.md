@@ -1,9 +1,9 @@
 ## Hello World!
 
-word or wxpression          | description
+word or expression          | description
 ------------                | -------------
-       | 
-test | 
+scatter plot       | scatter plot
+test | best
 
 
 
