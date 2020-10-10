@@ -15,7 +15,8 @@
 
 # Robust Statistics
 we define robust statistics as measures on which extreme observatins have little effect.
-mean V.S. median ---> median
+
+
 * | robust | non-robust
 ------------ | ------------- | -------------
 center   | median  | mean
