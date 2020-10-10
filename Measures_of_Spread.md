@@ -17,7 +17,7 @@
 we define robust statistics as measures on which extreme observatins have little effect.
 
 
-* | robust | non-robust
+measure/rubustness | robust | non-robust
 ------------ | ------------- | -------------
 center   | median  | mean
 spread   | IQR   | SD, range
