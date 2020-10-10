@@ -7,5 +7,7 @@
   - Population Variance ![formula](https://render.githubusercontent.com/render/math?math=\sigma^2)
 - **Standard Deviation** 
   - think about variability and diversity, do not confuse them. variability is about distribution against center, diversity is about number of different items.
-- **inter-quartile range (IRQ)**
+- **inter-quartile range (IQR)**
   - range of the middle 50% of the data, distance between the first quartile (25th percentile) and third quartile (75th percentile)
+
+    ![formula](https://render.githubusercontent.com/render/math?math=IQR=Q3-Q1)
