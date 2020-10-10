@@ -11,3 +11,12 @@
   - range of the middle 50% of the data, distance between the first quartile (25th percentile) and third quartile (75th percentile)
 
     ![formula](https://render.githubusercontent.com/render/math?math=IQR=Q3-Q1)
+
+
+# Robust Statistics
+we define robust statistics as measures on which extreme observatins have little effect.
+mean V.S. median ---> median
+ | robust | non-robust
+------------ | ------------- | -------------
+center   | median  | mean
+spread   | IQR   | SD, range
