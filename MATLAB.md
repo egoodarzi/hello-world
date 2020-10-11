@@ -1,6 +1,8 @@
-fomat long -->
-format short
-save filename
+command   | description
+---------------| -----------------
+fomat long --> | 
+format short | 
+save filename  |
 save filename variable
 load filename
 load filename variable
