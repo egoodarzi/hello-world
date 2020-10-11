@@ -3,13 +3,13 @@ command   | description
 fomat long --> | 
 format short | 
 save filename  |
-save filename variable
-load filename
-load filename variable
-4-1:
-Manually Entering Arrays:
-x = [1 2 3] or x = [1, 2, 3] creates row vector
-x = [1; 2; 3] creates column vector
+save filename variable | 
+load filename |
+load filename variable | 
+4-1:|
+Manually Entering Arrays: | 
+x = [1 2 3] or x = [1, 2, 3] | creates row vector
+x = [1; 2; 3]  | creates column vector
 space or comma for row vector
 semicolumn for column vector
 	matlab stands for MATrix LABoratory
