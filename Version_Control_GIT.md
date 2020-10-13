@@ -41,11 +41,12 @@ git uses a directed asyclic graph to model history!
  
  ### we want to go one level lower than this!
  how exactly is this represented as a data structure inside GIT.
- '''
+ ```
  type blob = array<bytes>
  type tree = map<string, tree | blob>   # mapping between filename and its content(string and tree)
  type commit = struct  # a bunch of staff
-      parents: 
- '''
- 
- 
+      parents: array<commits>    # commits have normally one parent, elif merge commits which have multiple parents
+      author: string
+      message: string
+      snapshot: tree
+ ```
