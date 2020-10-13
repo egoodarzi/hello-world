@@ -46,7 +46,6 @@ git uses a directed asyclic graph to model history!
  type tree = map<string, tree | blob>   # mapping between filename and its content(string and tree)
  type commit = struct  # a bunch of staff
       parents: 
- 
  '''
  
  
