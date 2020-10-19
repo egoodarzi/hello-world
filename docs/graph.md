@@ -11,7 +11,7 @@ A **graph**in computer science is a data structure consisting of Vertices (also 
 Here are two ways to represent a graph: using an equation with a group of vertices V and a group of edges E. And a diagram with nodes and the connections between those nodes
 
 ![image](https://missinglink.ai/wp-content/uploads/2019/07/Graph-and-Convolutional-Neural-Network-Concepts.png)
-
+![image](https://missinglink.ai/wp-content/uploads/2019/07/Converting-graph-structure-to-a-neural-network-function.png)
 examples are: chemical molecular structure, documents citation networks, ...
 #### directed VS undirected graphs
 how the edges link the nodes allws us t o distinguish between a __directed__ vs __undirected__ graph.
