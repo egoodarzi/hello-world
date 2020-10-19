@@ -1,12 +1,16 @@
 # about Graph Convolutional Networks(GCN)
 [sourse1](https://medium.com/analytics-vidhya/getting-the-intuition-of-graph-neural-networks-a30a2c34280d)
 [source2](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d)
+[source3](https://missinglink.ai/guides/convolutional-neural-networks/graph-convolutional-networks/)
 
 #### keywords or unmentiond useful further material:
 [Spektral](https://spektral.graphneural.network/) a Python library for Graph Neural Networks based on Keras and Tensorflow 2 developed by Daniele Grattarola.
 
 ## what is a graph?
-we represent a graph by its vertxes and its links between vertexes, so a graph is represented by G(v, r)
+A **graph**in computer science is a data structure consisting of Vertices (also called nodes) and Edges (also called connections).
+Here are two ways to represent a graph: using an equation with a group of vertices V and a group of edges E. And a diagram with nodes and the connections between those nodes
+
+![image](https://missinglink.ai/wp-content/uploads/2019/07/Graph-and-Convolutional-Neural-Network-Concepts.png)
 
 examples are: chemical molecular structure, documents citation networks, ...
 #### directed VS undirected graphs
@@ -38,6 +42,11 @@ in this setting, the number of the graphs we have will be as many as the number 
 we will only have 1 big graph consisting of all the observations as the nodes. example: classify documents within a document citation network.
 
 # Graph Neural Networks vs Convolutional Neural Networks (CNN)
+What is Graph Neural Network?
+A Graph Neural Network, also known as a Graph Convolutional Networks (GCN), performs a convolution on a graph, instead of on an image composed of pixels.[3]
+
+![image](https://missinglink.ai/wp-content/uploads/2019/07/Converting-graph-structure-to-a-neural-network-function.png)
+
 Interestingly, images can also be seen as a complete graph, where:
 - Each __node__ represents each __pixel__.
 - __Node feature__ represents the __pixel value__.
