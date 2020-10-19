@@ -50,6 +50,11 @@ max or sum pooling are permutation invariant, i.e. they will pool the same value
 the dot product ins not permutation invariant, simply because X₁W₁+X₂W₂ ≠X₂W₁+X₁W₂.
 
 **Nodes are a set, and any permutation of this set does not change it. Therefore, the aggregator operator that people apply should be permutation-invariant.**  The most popular choices are averaging [(GCN, Kipf & Welling, ICLR, 2017)](https://arxiv.org/abs/1609.02907) and summation [(GIN, Xu et al., ICLR, 2019)](https://arxiv.org/abs/1810.00826) of all neighbors, i.e. sum or mean pooling, followed by projection by a trainable vector W. See [Hamilton et al., NIPS, 2017](https://arxiv.org/abs/1706.02216) for some other aggregators.
+
 ![image](https://miro.medium.com/max/700/1*r91KCqXWXm3ltrixv_kUcA.png)
 
+Colloquially, people call this averaging or summation “convolution”, since we also “slide” from one node to another and apply an aggregator operator in each step
 
+# What makes a neural network a graph neural network?
+Now, how do we transform our vanilla neural network to a graph neural network? As you already know, the core idea behind GNNs is aggregation over “neighbors”. 
+**Here, it is important to understand that in many cases, it is actually `you` who specifies “neighbors”.**
