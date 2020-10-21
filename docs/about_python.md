@@ -12,7 +12,7 @@ sys.version
 
 strings are **immutable** so 
 
-`python
+```python
 name = [Micheal jackson]
 name[0] = 'j' # it is incorrect
-`
+```
