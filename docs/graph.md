@@ -2,6 +2,7 @@
 [sourse1](https://medium.com/analytics-vidhya/getting-the-intuition-of-graph-neural-networks-a30a2c34280d)
 [source2](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d)
 [source3](https://missinglink.ai/guides/convolutional-neural-networks/graph-convolutional-networks/)
+[stanford](http://web.stanford.edu/class/cs224w/)
 
 #### keywords or unmentiond useful further material:
 [Spektral](https://spektral.graphneural.network/) a Python library for Graph Neural Networks based on Keras and Tensorflow 2 developed by Daniele Grattarola.
