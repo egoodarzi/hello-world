@@ -1,3 +1,10 @@
+### Some links to read later:
+[link1](https://ireneli.eu/2019/01/08/understanding-graph-convolutional-networks/)
+[2](https://tkipf.github.io/graph-convolutional-networks/)
+[3](https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b)
+[4](https://irhum.pubpub.org/pub/gnn/release/4)
+[5](https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783)
+
 # about Graph Convolutional Networks(GCN)
 [sourse1](https://medium.com/analytics-vidhya/getting-the-intuition-of-graph-neural-networks-a30a2c34280d),
 [source2](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d),
