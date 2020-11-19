@@ -34,3 +34,5 @@ name[::2] # is equal to '02468'
 # or
 name[0:9:2]
 ```
+
+![aliasing](images/aliasing.png)
