@@ -36,3 +36,8 @@ name[0:9:2]
 ```
 
 ![aliasing](images/aliasing.png)
+
+## in dictionaries
+Keys can also be any immutable object such as a tuple
+
+Keys can only be strings, numbers, or tuples, but values can be any data type.
