@@ -41,3 +41,5 @@ name[0:9:2]
 Keys can also be any immutable object such as a tuple
 
 Keys can only be strings, numbers, or tuples, but values can be any data type.
+
+## [Mutable vs Immutable Objects in python](https://medium.com/@meghamohan/mutable-and-immutable-side-of-python-c2145cf72747#:~:text=Everything%20in%20Python%20is%20an%20object.&text=Simple%20put%2C%20a%20mutable%20object,set%2C%20dict)%20are%20mutable.)
