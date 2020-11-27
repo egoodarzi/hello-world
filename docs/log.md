@@ -1,3 +1,3 @@
-|time            | subject | image | text | impression | action | following | follower|
-|-------------   |---------|------ |------|------------|--------|-----------|---------|
-|25 Nov 09:50    | pyhton  | yes   | yes  |    -       |  -     | 80        | 17      |
+|time            | subject | image | text | impression | action | following | follower| hashtag|
+|-------------   |---------|------ |------|------------|--------|-----------|---------|------- |
+|25 Nov 09:50    | pyhton  | yes   | yes  |    11      |  1     | 80        | 17      |  empty |
