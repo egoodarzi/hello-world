@@ -1,3 +1,5 @@
+## python game!
+
 **knowing that:**
 | code | result|
 |---------| ------|
@@ -6,7 +8,7 @@
 |False in [False] | True|
 |True in [False]	| False|
 
-**guese what is the result of the below expression then run the code:**
+**guese what is the result of the below expression? then run the code to see the result:**
 | code | result|
 |---------| ------|
 | False == False in [False] |  ? |
