@@ -31,6 +31,10 @@ to keep the best quality and care less about the file size
 
  ```
  
+ RGB v.s. YUV
+ 
+ http://www.sensoray.com/support/appnotes/frame_grabber_capture_modes.htm
+ 
 |option   | value     | description1 | description2|
 |-------------|-----------|----------|-------|
 | -CRF      | 0-51    | 8-bit    | 0 is lossless, 51 is worst quality|
