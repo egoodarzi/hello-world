@@ -93,3 +93,7 @@ Install the project...
 -- Up-to-date: /root/ffmpeg_build/bin/srt-tunnel
 -- Installing: /root/ffmpeg_build/bin/srt-ffplay
 ```
+
+download from google drive in linux command line
+
+https://medium.com/@acpanjan/download-google-drive-files-using-wget-3c2c025a8b99
