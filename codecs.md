@@ -97,3 +97,7 @@ Install the project...
 download from google drive in linux command line
 
 https://medium.com/@acpanjan/download-google-drive-files-using-wget-3c2c025a8b99
+
+ball track
+
+https://medium.com/@gonzacor/ball-tracking-and-detection-in-sports-with-new-yolov5-9f30f5252cf2
